@@ -1,0 +1,15 @@
+@font-face{
+
+font-family:P;
+src: url(regular.ttf);
+
+
+}
+
+L{
+  font-family:P;
+  font-size: 270%;
+    color: antiquewhite;
+    
+
+}

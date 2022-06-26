@@ -1,0 +1,35 @@
+.vertical-menu {
+  width: 185px; 
+}
+
+.vertical-menu a {
+  background-color:black; 
+  color: white; 
+  display: block; 
+  padding: 32px; 
+  text-decoration: none; 
+}
+
+.vertical-menu a:hover {
+  background-color: maroon;
+}
+
+.vertical-menu a.active {
+  background-color: blue; 
+  color: white;
+}
+@font-face{
+
+font-family:P;
+src: url(ALGER.ttf);
+
+
+}
+
+L{
+  font-family:P;
+  font-size:130%;
+    color: white;
+    
+
+}

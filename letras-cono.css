@@ -1,0 +1,49 @@
+@font-face{
+
+font-family:P;
+src: url(ALGER.ttf);
+
+
+}
+
+H1{
+  font-family:P;
+  font-size: 170%;
+    color: white;
+    
+
+}
+
+@font-face{
+
+font-family:P;
+src: url(Regular.ttf);
+
+
+}
+
+H2{
+  font-family:P;
+  font-size: 160%;
+    color: red;
+    
+
+}
+
+@font-face{
+
+font-family:P;
+src: url(Regular.ttf);
+
+
+}
+
+H3{
+  font-family:P;
+  font-size: 140%;
+    color: white;
+    
+
+}
+
+

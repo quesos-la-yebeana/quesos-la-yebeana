@@ -1,0 +1,48 @@
+@font-face{
+
+font-family:P;
+src: url(COOPBL.ttf);
+
+
+}
+
+h2{
+  font-family:P;
+  font-size: 200%;
+    color: white;
+    
+
+}
+
+@font-face{
+
+font-family:P;
+src: url(COOPBL.ttf);
+
+
+}
+
+h3{
+  font-family:P;
+  font-size: 200%;
+    
+  
+    
+
+}
+
+@font-face{
+
+font-family:P;
+src: url(TiroTelugu-Italic.ttf);
+
+
+}
+
+H1{
+  font-family:P;
+  font-size: 170%;
+    color: black;
+    
+
+}
