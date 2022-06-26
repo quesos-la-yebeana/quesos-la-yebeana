@@ -1,7 +1,7 @@
 @font-face{
 
 font-family:P;
-src: url(.ttf);
+src: url(Regular.ttf);
 
 
 }
@@ -24,7 +24,7 @@ src: url(Regular.ttf);
 
 H2{
   font-family:P;
-  font-size: 160%;
+  font-size: 190%;
     color: red;
     
 
@@ -33,12 +33,12 @@ H2{
 @font-face{
 
 font-family:P;
-src: url(.ttf);
+src: url(Regular.ttf);
 
 
 }
 
-H3{
+L{
   font-family:P;
   font-size: 140%;
     color: white;
