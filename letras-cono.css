@@ -1,7 +1,7 @@
 @font-face{
 
 font-family:P;
-src: url(ALGER.ttf);
+src: url(.ttf);
 
 
 }
@@ -33,7 +33,7 @@ H2{
 @font-face{
 
 font-family:P;
-src: url(Regular.ttf);
+src: url(.ttf);
 
 
 }
